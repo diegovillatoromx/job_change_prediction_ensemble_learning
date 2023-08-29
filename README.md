@@ -16,7 +16,7 @@ In the realm of Big Data and Data Science, a company specializes in recruiting d
 
 Our case study focuses on a churn dataset, where "churned customers" are those ending relationships with their current company. XYZ, a service provider, offers a one-year subscription plan and wants to predict customer  renewal.
 
-We've previously examined the functionality of the logistic regression model using this dataset in the initial project of this series: [Predictive Employee Intent Analysis: Identifying Future Job Seekers and Company Devotees using Demographics and Experience Data](https://github.com/diegovillatoromx/Strategic_Workforce_Analysis_Predicting_Job_Transition)].
+We've previously examined the functionality of the logistic regression model using this dataset in the initial project of this series: [Predictive Employee Intent Analysis: Identifying Future Job Seekers and Company Devotees using Demographics and Experience Data](https://github.com/diegovillatoromx/Strategic_Workforce_Analysis_Predicting_Job_Transition).
 
 Additionally, we've implemented the decision tree algorithm in our second project: [Data Science Job Change Prediction Model using Decision Trees](https://github.com/diegovillatoromx/Job_change_prediction_decision_trees).
 It's advisable to review these two projects beforehand as we delve into ensemble techniques.
