@@ -109,6 +109,9 @@ Before analysis, prepare data by loading and processing it:
 4. #### Cleaning and Preprocessing:
    Clean data by handling missing values, normalization, etc.
     ```terminal
+    column_names = df.columns.tolist()
+    target = column_names[-1] 
+    cols_to_exclude = column_names[0:4] 
     df = null_values(df)
     ```
 ### Training Model
