@@ -25,7 +25,7 @@ It's advisable to review these two projects beforehand as we delve into ensemble
 
 ![diagram](https://github.com/diegovillatoromx/job_change_prediction_ensemble_learning/blob/main/architecture_diagrama_ensemble_learning.png)
 ## Data Description
-The CSV consists of around 2000 rows and 16 columns in the [dataset](https://github.com/diegovillatoromx/job_change_prediction_ensemble_learning/blob/main/input/DS_Job_Change_Data.csv)
+The CSV consists of around 19,158 rows and 14 columns in the [dataset](https://github.com/diegovillatoromx/job_change_prediction_ensemble_learning/blob/main/input/DS_Job_Change_Data.csv)
 #### Features:
 - enrollee_id : Unique ID for candidate
 - city: City code
